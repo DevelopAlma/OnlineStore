@@ -29,7 +29,7 @@ article {
 
     animation-name: desliza2;
     animation-duration: 1.3s;
-    
+
 }
 
 article img {
@@ -46,6 +46,11 @@ button {
     padding: 10px;
     margin-top: 10px;
     border-radius: 8px;
+}
+
+nav{
+    background-color: #007BBF;
+
 }
 
 /* For tablets */
