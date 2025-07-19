@@ -51,3 +51,9 @@ section{
     grid-template-columns:repet(2,1f);
     }
 }
+/* For phones */
+@media(min-width: 390px){
+section{
+    grid-template-columns:repet(2,1f);
+    }
+}
