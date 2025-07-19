@@ -46,9 +46,8 @@ button {
 
 /* For tablets */
 
-media@(min-width: 600px){
+@media(min-width: 600px){
 section{
     grid-template-columns:repet(2,1f);
-}
-
+    }
 }
